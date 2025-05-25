@@ -13,8 +13,14 @@
     },
     "env": {
         "APP_ENV": "production",
-        "APP_KEY": "base64:nsZbOp+cw6IxUN0T97hzDnh9FAh9pJL/1/WzPMcE6ag=",
-        "APP_URL": "https://app-65c38b37-4562-41ba-a2e4-3f93d041e4af.cleverapps.io/",
+        "APP_KEY": "base64:nsZbOp+cw6IxUN0T97hzDnh9FAh9pJL/1/WzPMcEGa=",
+        "APP_URL": "https://app-65c38b37-4562-41ba-a2e4-3f93d041e4af.cleverapps.io",
+        "DB_CONNECTION": "mysql",
+        "DB_HOST": "b70evnm155llnfhzcplz-mysql.services.clever-cloud.com",
+        "DB_PORT": "3306",
+        "DB_DATABASE": "b70evnm155llnfhzcplz",
+        "DB_USERNAME": "ukke0uqyckaxxncj",
+        "DB_PASSWORD": "1MRqCbxobWPO1S0N7NT1",
         "APP_DEBUG": "false"
     },
     "ports": {
