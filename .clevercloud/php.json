@@ -5,7 +5,7 @@
     "config": {
         "APP_ENV": "production",
         "APP_DEBUG": "false",
-        "APP_URL": "https://app-65c38b37-4562-41ba-a2e4-3f93d041e4af.cleverapps.io"
+        "APP_URL": "https://app-65c38b37-4562-41ba-a2e4-3f93d041e4af.cleverapps.io/"
     },
     "paths": {
         "webroot": "public"
