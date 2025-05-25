@@ -1,9 +1,10 @@
 {
-  "deploy": [
-    "php artisan migrate --force"
-  ],
-  "config": {
-    "APP_ENV": "production",
-    "APP_DEBUG": "false"
-  }
+    "deploy": [
+        "php artisan migrate --force"
+    ],
+    "config": {
+        "APP_ENV": "production",
+        "APP_DEBUG": "false",
+        "APP_URL": "https://laravel-api.cleverapps.io"
+    }
 }
