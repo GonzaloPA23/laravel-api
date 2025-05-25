@@ -11,9 +11,6 @@
             "--port=8080"
         ]
     },
-    "deploy": [
-        "php artisan migrate --force"
-    ],
     "env": {
         "APP_ENV": "production",
         "APP_KEY": "base64:nsZbOp+cw6IxUN0T97hzDnh9FAh9pJL/1/WzPMcE6ag=",
