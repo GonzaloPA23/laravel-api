@@ -1,0 +1,9 @@
+{
+  "deploy": [
+    "php artisan migrate --force"
+  ],
+  "config": {
+    "APP_ENV": "production",
+    "APP_DEBUG": "false"
+  }
+}
